@@ -1,0 +1,4 @@
+#Mon Feb 22 15:52:21 COT 2021
+base.0=/home/colsoluweb/AndroidStudioProjects/cursoflutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
